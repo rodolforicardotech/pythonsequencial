@@ -1,0 +1,4 @@
+Estou tentando utilizar ao máximo o terminal.
+Cometi um erro de tentar enviar os arquivos antes de dar o COMMIT.
+
+NOTA! Atenção nessa parte sempre.
