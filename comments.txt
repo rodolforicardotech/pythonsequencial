@@ -2,3 +2,7 @@ Estou tentando utilizar ao máximo o terminal.
 Cometi um erro de tentar enviar os arquivos antes de dar o COMMIT.
 
 NOTA! Atenção nessa parte sempre.
+
+Erro 02: Adicionei o README.md pelo GitHub. tentei realizar alterações no local sem ter feio o PULL antes.
+
+
